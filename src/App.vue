@@ -2,7 +2,7 @@
   <div class="table-box">
     <!-- 标题 -->
     <div class="title">
-      <h2>最简单的 CURD Demo</h2>
+      <h2>最简单的 CURD Demo </h2>
     </div>
     <!-- query -->
     <div class="query-box">
